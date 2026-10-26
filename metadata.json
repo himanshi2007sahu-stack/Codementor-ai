@@ -1,0 +1,7 @@
+{
+  "name": "CodeMentor AI — My Personal DSA Teacher",
+  "description": "A premium, interactive AI DSA teacher and algorithm studio featuring syllabus customization, step-by-step interactive lessons with Hinglish & English explanations, 8+ data structure visualizers, Java coding practice lab, and smart study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
